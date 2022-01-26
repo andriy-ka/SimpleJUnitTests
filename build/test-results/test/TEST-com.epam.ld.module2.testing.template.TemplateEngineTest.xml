@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.ld.module2.testing.template.TemplateEngineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-26T13:13:46" hostname="EPUALVIW09B1" time="1.07">
+  <properties/>
+  <testcase name="shouldThrowExceptionIfAnyValueEmpty()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="1.07"/>
+  <system-out><![CDATA[name = 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

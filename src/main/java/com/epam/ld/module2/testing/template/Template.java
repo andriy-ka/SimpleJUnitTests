@@ -5,17 +5,14 @@ package com.epam.ld.module2.testing.template;
  * The type Template.
  */
 public class Template {
-    private String template;
+    private final String template;
 
     public Template() {
-        this.template = "Hi! {0}";
+        this.template = "Hi! #{name} this is your code: #{value} and your address: #{address}";
     }
 
     public String getTemplate() {
         return template;
     }
 
-    public void setTemplate(String template) {
-        this.template = template;
-    }
 }
